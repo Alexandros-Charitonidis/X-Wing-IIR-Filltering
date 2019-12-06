@@ -2,9 +2,8 @@
 IIR Filter for an accelerometer filtering high frequency turbulence during pitch and roll measurements
  [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 
-<a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
 
-<!-- [![FVCproductions](https://github.com/Alexandros-Charitonidis/X-Wing-IIR-Filltering/blob/master/images/X-Wing.png) -->
+![](https://github.com/Alexandros-Charitonidis/X-Wing-IIR-Filltering/blob/master/images/X-Wing.png)
 
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
 
