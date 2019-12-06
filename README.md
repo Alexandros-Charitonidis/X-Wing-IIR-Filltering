@@ -8,6 +8,8 @@ IIR Filter for an accelerometer filtering high frequency turbulence during pitch
 
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
 
+![Recordit GIF](http://g.recordit.co/siG4aRLPWh.gif)
+
 # Repository Title Goes Here
 
 > Subtitle or Short Description Goes Here
