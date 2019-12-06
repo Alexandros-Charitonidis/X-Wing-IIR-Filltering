@@ -1,0 +1,12 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/X-Wing.png</file>
+    <file>images/1redpng.png</file>
+    <file>images/2redpng.png</file>
+    <file>images/3redpng.png</file>
+    <file>images/4redpng.png</file>
+    <file>images/noredpng.png</file>
+    <file>images/Uni_Glasgow_2017_arms.png</file>
+
+</qresource>
+</RCC>
