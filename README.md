@@ -30,7 +30,8 @@ For the 3rd and final assessment of the Digital SIgnal Processing course we were
 ## Dependencies
 - Python 3.5 or higher
 - PyQt5
-- pyqtgraph with pyserial (for you that are not updated)
+- pyqtgraph
+- pyserial 
 - pyFirmata2
 
 ## Table of Contents 
