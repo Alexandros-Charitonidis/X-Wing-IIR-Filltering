@@ -198,5 +198,5 @@ Reach out to me at one of the following places!
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-- **[GPL v3](http://opensource.org/licenses/mit-license.php)**
+- **[GPL v3] <https://fsf.org/>**
 - Copyright 2019 © Alexandros Charitonidis & Alessandro Tadema.
