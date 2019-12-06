@@ -1,9 +1,10 @@
 # X-Wing-IIR-Filltering
 For the 3rd and final assessment of the Digital SIgnal Processing course we were called to design and implement an IIR Filter to filter in real time a real world problem.  for an accelerometer filtering high frequency turbulence during pitch and roll measurements
- [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 
 
-![](https://github.com/Alexandros-Charitonidis/X-Wing-IIR-Filltering/blob/master/images/X-Wing.png)
+
+
+![](https://github.com/Alexandros-Charitonidis/X-Wing-IIR-Filltering/blob/master/images/X-Wing.png width =250)
 
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
 
@@ -33,6 +34,10 @@ For the 3rd and final assessment of the Digital SIgnal Processing course we were
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Dependency Status](http://img.shields.io/gemnasium/badges/badgerbadgerbadger.svg?style=flat-square)](https://gemnasium.com/badges/badgerbadgerbadger) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger) [![Code Climate](http://img.shields.io/codeclimate/github/badges/badgerbadgerbadger.svg?style=flat-square)](https://codeclimate.com/github/badges/badgerbadgerbadger) [![Github Issues](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/issues.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/pulls.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/pulls) [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
 
 - For more on these wonderful ~~badgers~~ badges, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
+
+
+## Dependencies
+
 
 ***INSERT ANOTHER GRAPHIC HERE***
 
@@ -99,7 +104,10 @@ let generateProject = project => {
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
+- You can clone this repo to your local machine using `https://github.com/Alexandros-Charitonidis/X-Wing-IIR-Filltering` OR
+```shell
+$ git clone https://github.com/Alexandros-Charitonidis/X-Wing-IIR-Filltering
+```
 
 ### Setup
 
