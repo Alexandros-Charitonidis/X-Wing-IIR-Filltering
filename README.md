@@ -1,5 +1,5 @@
 # X-Wing-IIR-Filltering
-IIR Filter for an accelerometer filtering high frequency turbulence during pitch and roll measurements
+For the 3rd and final assessment of the Digital SIgnal Processing course we were called to design and implement an IIR Filter to filter in real time a real world problem.  for an accelerometer filtering high frequency turbulence during pitch and roll measurements
  [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 
 
