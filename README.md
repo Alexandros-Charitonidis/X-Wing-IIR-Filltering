@@ -111,13 +111,12 @@ $ git clone https://github.com/Alexandros-Charitonidis/X-Wing-IIR-Filltering
 
 ### Setup
 
-- If you want more syntax highlighting, format your code like this:
+- No need for setup just run from command prompt as shown:
 
-> update and install this package first
+> Update and install dependant modules first !!!!!
 
 ```shell
-$ brew update
-$ brew install fvcproductions
+$ python main.py
 ```
 
 > now install npm and bower packages
