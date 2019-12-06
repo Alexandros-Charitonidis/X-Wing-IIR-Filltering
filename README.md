@@ -4,7 +4,7 @@ For the 3rd and final assessment of the Digital SIgnal Processing course we were
 
 
 
-![](https://github.com/Alexandros-Charitonidis/X-Wing-IIR-Filltering/blob/master/images/X-Wing.png width =250)
+![](https://github.com/Alexandros-Charitonidis/X-Wing-IIR-Filltering/blob/master/images/X-Wing.png)
 
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
 
