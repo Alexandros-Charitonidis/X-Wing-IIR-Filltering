@@ -21,9 +21,7 @@ You can of course the UI and the program in a working order on the youtube link 
 > An ADXL335 Accelerometer.
 
 **Badges will go here**
-
-- build status
-- issues 
+![](https://github.com/Alexandros-Charitonidis/X-Wing-IIR-Filltering/blob/master/Circuit.png)
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Github Issues](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/issues.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/issues)
 .
