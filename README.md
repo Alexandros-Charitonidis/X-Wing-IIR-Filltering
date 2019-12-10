@@ -34,8 +34,6 @@ For the 3rd and final assessment of the Digital SIgnal Processing course we were
 - pyserial 
 - pyFirmata2
 
-## Table of Contents 
-
 
 ### Clone
 
@@ -61,14 +59,15 @@ $ python main.py
 
 
 ## Team
-
+Alexandros Charitonidis @ 2508116C
+Alessandro Tadema       @ 2504971T
 
 ## FAQ
-
+To be filled..
 
 ## License
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 - **[GPL v3] <https://fsf.org/>**
-- Copyright 2019 © Alexandros Charitonidis & Alessandro Tadema.
+- Authors 2019 © Alexandros Charitonidis & Alessandro Tadema.
