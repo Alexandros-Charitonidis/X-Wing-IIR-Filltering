@@ -1,5 +1,5 @@
 # X-Wing-IIR-Filltering
-For the 3rd and final assessment of the Digital SIgnal Processing course we were called to design and implement an IIR Filter to filter in real time a real world problem.  for an accelerometer filtering high frequency turbulence during pitch and roll measurements
+For the 3rd and final assessment of the Digital SIgnal Processing course we were called to design and implement an IIR Filter to filter in real time a "noisy" real world problem. An accelerometer was chosen and we commenced on filtering high frequency turbulence during pitch and roll measurements. 
 
 
 
@@ -10,14 +10,15 @@ For the 3rd and final assessment of the Digital SIgnal Processing course we were
 ## The UI !!
 
 ![jUST A SCREENCAPTURE :) ](GIF.gif)
+You can of course the UI and the program in a working order on the youtube link posted!!! Feel free to try it on your own.
 
-# Repository Title Goes Here
+# Circuitry
 
-> Subtitle or Short Description Goes Here
+> Really simple!! Just grab an Arduino that has been sitting on your drawer for too long
 
-> ideally one sentence
+> Some dupont cables. Or any type of cables you have!
 
-> include terms/tags that can be searched
+> An ADXL335 Accelerometer.
 
 **Badges will go here**
 
