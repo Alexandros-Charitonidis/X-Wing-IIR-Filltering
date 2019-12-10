@@ -10,7 +10,7 @@ For the 3rd and final assessment of the Digital SIgnal Processing course we were
 ## The UI !!
 
 ![jUST A SCREENCAPTURE :) ](GIF.gif)
-You can of course the UI and the program in a working order on the youtube link posted!!! Feel free to try it on your own.
+You can of course see the UI and the program in a working order on the youtube link posted!!! Feel free to try it on your own.
 
 # Circuitry
 
