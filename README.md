@@ -49,7 +49,7 @@ $ git clone https://github.com/Alexandros-Charitonidis/X-Wing-IIR-Filltering
 > Update and install dependant modules first !!!!!
 
 ```shell
-$ python main.py
+$ python realtime_iir_main.py
 ```
 
 
