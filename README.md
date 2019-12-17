@@ -6,7 +6,7 @@ For the 3rd and final assessment of the Digital SIgnal Processing course we were
 ## YouTube Video with our demo
 
 [![Alt text](https://github.com/Alexandros-Charitonidis/X-Wing-IIR-Filltering/blob/master/Thumb.png)](http://www.youtube.com/watch?feature=player_embedded&v=-S1iXpoRs1U)
-
+Click On It :)
 
 
 
