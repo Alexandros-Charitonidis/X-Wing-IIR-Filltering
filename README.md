@@ -1,11 +1,14 @@
 # X-Wing-IIR-Filltering
 For the 3rd and final assessment of the Digital SIgnal Processing course we were called to design and implement an IIR Filter to filter in real time a "noisy" real world problem. An accelerometer was chosen and we commenced on filtering high frequency turbulence during pitch and roll measurements. 
 
-
-
-## Example
-
 ![](https://github.com/Alexandros-Charitonidis/X-Wing-IIR-Filltering/blob/master/images/X-Wing.png)
+
+## YouTube Video with our demo
+
+[![Alt text](https://github.com/Alexandros-Charitonidis/X-Wing-IIR-Filltering/blob/master/Thumb.png)](http://www.youtube.com/watch?feature=player_embedded&v=-S1iXpoRs1U)
+
+
+
 
 ## The UI !!
 
@@ -28,7 +31,7 @@ You can of course see the UI and the program in a working order on the youtube l
 ## YouTube Video with out demo
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-S1iXpoRs1U
-" target="_blank"><img src="http://img.youtube.com/vi/-S1iXpoRs1U/0.jpg" 
+" target="_blank"><img src="https://github.com/Alexandros-Charitonidis/X-Wing-IIR-Filltering/blob/master/Thumb.png" 
 alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 
 https://www.youtube.com/watch?v=-S1iXpoRs1U
