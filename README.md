@@ -28,14 +28,6 @@ You can of course see the UI and the program in a working order on the youtube l
 **Simple as that**
 
 
-## YouTube Video with out demo
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=-S1iXpoRs1U
-" target="_blank"><img src="https://github.com/Alexandros-Charitonidis/X-Wing-IIR-Filltering/blob/master/Thumb.png" 
-alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
-
-https://www.youtube.com/watch?v=-S1iXpoRs1U
-
 
 ## Dependencies
 - Python 3.5 or higher
